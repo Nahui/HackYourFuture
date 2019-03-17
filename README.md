@@ -1,2 +1,2 @@
 # HackYourFuture
-Contains all the projects of Hack Your Future course
+Contains all the projects of Hack Your Future course (soon)
